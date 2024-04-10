@@ -1,17 +1,21 @@
 [
   {
-    "objectID": "multi-format.html",
-    "href": "multi-format.html",
-    "title": "Multi-format publishing",
+    "objectID": "dynamic-content.html",
+    "href": "dynamic-content.html",
+    "title": "My awesome website",
     "section": "",
-    "text": "Markdown is just a plain text format that is designed to be easy to write, and, even more importantly, easy to read.\nFor example:\nWill be rendered like this."
+    "text": "One of the incredible features of quarto is that you can execute cells with Python.\n\nfor i in range(1,10):\n    print(\"There is\", i, \"smarties here\")\n\nThere is 1 smarties here\nThere is 2 smarties here\nThere is 3 smarties here\nThere is 4 smarties here\nThere is 5 smarties here\nThere is 6 smarties here\nThere is 7 smarties here\nThere is 8 smarties here\nThere is 9 smarties here\n\n\nSee more on the quarto doc.",
+    "crumbs": [
+      "Home",
+      "Dynamic Content"
+    ]
   },
   {
-    "objectID": "multi-format.html#hello-world",
-    "href": "multi-format.html#hello-world",
-    "title": "Multi-format publishing",
-    "section": "Hello world",
-    "text": "Hello world\n\nThe world is nice.\n\nAnd this is important to note.\nThe quarto documentation provide a detailed documentation here.\nhttps://quarto.org/docs/authoring/markdown-basics.html"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A quarto template",
+    "section": "",
+    "text": "This is a Quarto website to explore the incredible features of quarto to share content with the help of Github pages.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "multi-revealjs.html#hello-world",
@@ -21,10 +25,25 @@
     "text": "Hello world\n\nThe world is nice.\n\nAnd this is important to note.\nThe quarto documentation provide a detailed documentation here.\nhttps://quarto.org/docs/authoring/markdown-basics.html"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Content",
+    "objectID": "multi-format.html",
+    "href": "multi-format.html",
+    "title": "Multi-format publishing",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "As you can see on the right of your screen, files of different formats have been generated along with this html page.",
+    "crumbs": [
+      "Home",
+      "Multi-format publishing"
+    ]
+  },
+  {
+    "objectID": "multi-format.html#hello-world",
+    "href": "multi-format.html#hello-world",
+    "title": "Multi-format publishing",
+    "section": "Hello world",
+    "text": "Hello world\n\nThe world is nice.\n\nAnd this is important to note.\nThe quarto documentation provide a detailed documentation here.\nhttps://quarto.org/docs/authoring/markdown-basics.html",
+    "crumbs": [
+      "Home",
+      "Multi-format publishing"
+    ]
   }
 ]
