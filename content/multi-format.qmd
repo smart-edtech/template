@@ -1,9 +1,10 @@
 ---
 title: Multi-format publishing
+slug: multi
 format:
   html: default
   revealjs:
-    output-file: markdown-revealjs.html
+    output-file: multi-revealjs.html
   docx: default
   odt: default
   pptx: default
