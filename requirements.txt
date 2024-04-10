@@ -1,0 +1,2 @@
+# add here your python dependencies if needed
+jupyter
