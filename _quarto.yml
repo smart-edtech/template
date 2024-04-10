@@ -1,9 +1,0 @@
-project:
-  type: website
-  title: "@SmartEdTech"
-
-website:
-  title: "@SmartEdTech"
-
-format:
-  html: default
