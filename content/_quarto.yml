@@ -9,6 +9,9 @@ website:
         text: Home
   sidebar:
       - auto: "*.qmd"
+      - tools:
+        - icon: github
+          href: https://github.com/smart-edtech/template/
 
 format:
   html:
