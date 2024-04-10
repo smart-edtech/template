@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "test.html",
-    "href": "test.html",
-    "title": "Markdown basics",
-    "section": "",
-    "text": "Markdown is just a plain text format that is designed to be easy to write, and, even more importantly, easy to read.\nFor example:\nWill be rendered like this."
-  },
-  {
-    "objectID": "test.html#hello-world",
-    "href": "test.html#hello-world",
-    "title": "Markdown basics",
-    "section": "Hello world",
-    "text": "Hello world\n\nThe world is nice.\n\nAnd this is important to note.\nThe quarto documentation provide a detailed documentation here.\nhttps://quarto.org/docs/authoring/markdown-basics.html"
-  },
-  {
-    "objectID": "markdown-revealjs.html#hello-world",
-    "href": "markdown-revealjs.html#hello-world",
-    "title": "Multi-format publishing",
-    "section": "Hello world",
-    "text": "Hello world\n\nThe world is nice.\n\nAnd this is important to note.\nThe quarto documentation provide a detailed documentation here.\nhttps://quarto.org/docs/authoring/markdown-basics.html"
-  },
-  {
     "objectID": "multi-format.html",
     "href": "multi-format.html",
     "title": "Multi-format publishing",
@@ -33,5 +12,19 @@
     "title": "Multi-format publishing",
     "section": "Hello world",
     "text": "Hello world\n\nThe world is nice.\n\nAnd this is important to note.\nThe quarto documentation provide a detailed documentation here.\nhttps://quarto.org/docs/authoring/markdown-basics.html"
+  },
+  {
+    "objectID": "multi-revealjs.html#hello-world",
+    "href": "multi-revealjs.html#hello-world",
+    "title": "Multi-format publishing",
+    "section": "Hello world",
+    "text": "Hello world\n\nThe world is nice.\n\nAnd this is important to note.\nThe quarto documentation provide a detailed documentation here.\nhttps://quarto.org/docs/authoring/markdown-basics.html"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Content",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
