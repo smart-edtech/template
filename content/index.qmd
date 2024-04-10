@@ -1,7 +1,7 @@
 ---
-title: "Content"
+title: "A quarto template"
 ---
 
-This is a Quarto website.
+This is a Quarto website to explore the incredible features of quarto to share content with the help of Github pages.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

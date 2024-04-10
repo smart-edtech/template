@@ -1,0 +1,8 @@
+One of the incredible features of quarto is that you can execute cells with Python.
+
+```{python}
+for i in range(1,10):
+    print("There is", i, "smarties here")
+```
+
+See more on the [quarto doc](https://quarto.org/docs/computations/python.html).

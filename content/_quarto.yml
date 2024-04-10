@@ -7,11 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+    tools:
+      - icon: github
+        href: https://github.com/smart-edtech/template/
   sidebar:
+    contents:
       - auto: "*.qmd"
-      - tools:
-        - icon: github
-          href: https://github.com/smart-edtech/template/
 
 format:
   html:

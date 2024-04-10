@@ -10,6 +10,10 @@ format:
   pptx: default
 ---
 
+> As you can see on the right of your screen, files of different formats have been generated along with this `html` page.
+
+# Some markdown content
+
 Markdown is just a plain text format that is designed to be easy to write, and, even more importantly, easy to read.
 
 For example:
