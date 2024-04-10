@@ -1,6 +1,5 @@
 ---
-title: Markdown basics
-slug: markdown
+title: Multi-format publishing
 format:
   html: default
   revealjs:
